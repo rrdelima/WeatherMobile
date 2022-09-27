@@ -1,4 +1,4 @@
-# Projeto WeatherMobile
+# Projeto WeatherMobile-GRID
 
 Projeto realizado durante o curso FrontStart, onde foi desenvolvido um layout simulando um App de clima em um Mobile.
 
